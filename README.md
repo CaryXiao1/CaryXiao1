@@ -1,9 +1,10 @@
 👋 Oh hey there!
 
-I'm <a href="www.caryxiao.com" target="_blank">Cary</a>. Aside from running or playing tenor saxophone, I love to build things that people can find useful and informative.
+I'm <a href="www.caryxiao.com" target="_blank">Cary</a>. I love to build things and make coffee.
 
-Want to get in touch?
-- 📫 <a href="mailto:caryxiao@cs.stanford.edu">Email!</a>
+Contact me!
+-  <a href="mailto:caryxiao@cs.stanford.edu">Email</a>
+-  <a href="https://linkedin.com/in/cary-xiao">LinkedIn</a>
 
 <!---
 CaryXiao1/CaryXiao1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
